@@ -31,7 +31,6 @@ const listBelanjaan = () => {
   return listItem
 } 
 
-//console.log(listBelanjaan)
 // boleh dimodifikasi bila ingin menggunakan deklarasi fungsi yang normal
 const totalBelanjaan = () => {
   let totalHarga = 0
